@@ -1,5 +1,7 @@
 # Watch out! This package is very DEPRECATED
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zepod/react-mobx-preload.svg)](https://greenkeeper.io/)
+
 # React-MobX-Preload
 
 A small library providing preloading promise-based functionality for react & mobx components.
