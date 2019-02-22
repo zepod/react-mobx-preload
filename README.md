@@ -1,3 +1,5 @@
+# Watch out! This package is very DEPRECATED
+
 # React-MobX-Preload
 
 A small library providing preloading promise-based functionality for react & mobx components.
